@@ -1,0 +1,192 @@
+.menu__wrap ul li a{
+	text-decoration:none;
+}
+.hj{
+	background;red;
+}
+.header{
+	background-color:#294970;
+	
+}
+.menu{
+	 margin-left:-16px;
+ }
+.nav-btn{
+	margin-top:19px;
+}
+.user-logo{
+	height:50pox;
+	width:50px;
+	border:1px solid #294970;	border-radius:50%;
+}
+.heading{
+	margin-top:19px;
+	font-size:16px;
+	color:white;
+}
+.session-logo img{
+	margin-left:47px;
+	margin-top:5px;
+	margin-bottom:15px;
+}	
+.session-title{
+	margin-top:15px;
+	line-height:10px;
+	color:white;
+}
+/*Sidebar*/
+
+/*DashBoard CSS*/
+.box{
+	height:98px;
+	border:1px solid #294970;
+	background:#294970;
+	margin-right:6px;
+	margin-bottom:3px;
+	
+}
+.d-thumbnail{
+	height:98px;
+	border:1px solid #294970;
+	background-color:#294970;
+}
+.d-thumbnail{
+	
+	
+}
+.d-thumbnail{
+	
+}
+.thumbnail{
+	background-color:#294970;
+}
+a:hover{
+	text-decoration:none;
+}
+.ibox a{
+	background:#294970;
+	color:white;
+}
+.ibox a:hover{
+	background:#222222;
+	color:white;
+	text-decoration:none;
+}
+/*all student.php*/
+
+
+.myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+#myTable tr td{
+  font-size:15px;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+/*all student.php*/
+
+/*admitstudent.php*/
+.form-bg{
+	background:#E5E5E5;
+	
+}
+.footer{
+	margin-top:10px;
+}
+/*admitstudent.php*/
+
+
+/*status bar*/
+
+.{}
+/*status bar*/
+.glyphicon-align-justify{
+	display:none;
+}
+
+/*Student ID*/
+.main-section{
+	height:209px;
+	width:340px;
+	
+	background:url('../images/Student-Card-PSD.jpg');
+	background-attachment:cover;
+	background-position:center;
+	
+}
+.name{
+	font-size:20px;
+	font-family:fantasy;
+	color:red;
+	text-align:center;
+	letter-spacing: 2px;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+
+/*Student ID*/
+.{}
+.{}
+.{}
+.{}
+.{}
+
+/*CSS3 Responsive */
+ @media only screen and (max-width: 650px) {
+ .jk{
+	 margin-bottom:10px;
+ }
+ .session-logo img{
+	 margin-left:-5px;
+ }
+ 
+ .glyphicon-align-justify{
+	 font-size:30px;
+ }
+ .glyphicon-align-justify{
+	 display:block;
+ }
+ .sidebar{
+	display:none;
+ }
+ .menu{
+	 margin-left:100%;
+ }
+ .gg table tr td{
+	border:1px solid black;
+}
+ 
+ /**/
+ /**/
+
+ 
+}
